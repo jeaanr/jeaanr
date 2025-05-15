@@ -12,4 +12,4 @@ Sou estudante de Ciência de Dados e Big Data Analytics, apaixonado por transfor
 
 ## 📫 Como me encontrar
 - [Linkedin](https://www.linkedin.com/in/jean-rodrigues-56b0981a3/)
-- E-mail: jeanrodrigues6878@gmail.com
+- [E-mail](jeanrodrigues6878@gmail.com)
