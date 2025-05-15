@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá! Eu sou o Jean 👋
 
-<!--
-**jeaanr/jeaanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência de Dados e Big Data Analytics, apaixonado por transformar dados em insights valiosos. Estou aprimorando minhas habilidades em Python, SQL, Machine Learning e análise de grandes volumes de dados.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Linguagens: Python, SQL
+- Bibliotecas: Pandas, NumPy, Matplotlib, Scikit-learn
+- Big Data: Spark, Hadoop (estudo)
+- Ferramentas: Notebooks, Excel, Power BI, Git/GitHub
+- Conceitos: Análise Exploratória, Modelagem Preditiva, ETL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Como me encontrar
+- LinkedIn: [seu-linkedin](https://www.linkedin.com/in/jean-rodrigues-56b0981a3/)
+- E-mail: jeanrodrigues6878@gmail.com
