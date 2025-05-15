@@ -1,6 +1,6 @@
 # Olá! Eu sou o Jean 👋
 
-Sou estudante de Ciência de Dados e Big Data Analytics, apaixonado por transformar dados em insights valiosos. Estou aprimorando minhas habilidades em Python, SQL, Machine Learning e análise de grandes volumes de dados.
+Estudante de Ciência de Dados e Big Data Analytics, apaixonado por transformar dados em insights valiosos. Estou aprimorando minhas habilidades em Python, SQL, Machine Learning e análise de grandes volumes de dados.
 
 ## 🚀 Skills
 - Linguagens: Python, SQL
